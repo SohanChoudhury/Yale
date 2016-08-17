@@ -7,3 +7,4 @@ This program converts FASTA genome sequences and BED queries into a single FASTA
 Notable features:
 - Conversion of sequence to RNA
 - Parser style user input
+- Utilizes Python3
