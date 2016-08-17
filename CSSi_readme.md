@@ -9,5 +9,6 @@ Notable features:
 - Output also provides distance of novel case from canonical case, as well as directionality of each case
 - Saved output is tab delimited for hassle-free analysis using spreadsheets such as Excel, also contains number of uniquely mapped reads for each case for easy statistical significance calculations for each novel case
 - Parser style user input
+- Utilizes Python 3
 
 © Sohan Choudhury 2016
