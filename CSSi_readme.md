@@ -1,5 +1,5 @@
 # Yale
-##Cryptic Splice Site Identifier. 
+##Cryptic Splice Site Identifier
 
 Given an annotation file (either GTF or GFF3) as well as a STAR .tab file containing splice junctions, the program will find all non-canonical splice sites. Program works in all cases: whether 3', 5', or both splice sites are cryptic. Output is printed and saved, contains key information for analysis.
 
