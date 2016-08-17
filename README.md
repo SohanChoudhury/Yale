@@ -1,2 +1,0 @@
-# Yale
-# Yale
